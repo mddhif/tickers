@@ -1,0 +1,8 @@
+
+server:
+  url: https://api.example.com/v1/tickers
+
+spring:
+  devtools:
+    livereload:
+         enabled: true
